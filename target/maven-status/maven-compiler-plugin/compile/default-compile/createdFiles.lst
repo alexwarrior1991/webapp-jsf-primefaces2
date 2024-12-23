@@ -1,0 +1,15 @@
+com\alejandro\webapp\jsf3\controllers\LenguajeController.class
+com\alejandro\webapp\jsf3\repositories\CategoriaRepositoryImpl.class
+com\alejandro\webapp\jsf3\Main.class
+com\alejandro\webapp\jsf3\repositories\CrudRepository.class
+com\alejandro\webapp\jsf3\MyFacesContext.class
+com\alejandro\webapp\jsf3\ProducerResources.class
+com\alejandro\webapp\jsf3\controllers\ProductoController.class
+com\alejandro\webapp\jsf3\entities\Producto.class
+com\alejandro\webapp\jsf3\ProducerEntityManager.class
+com\alejandro\webapp\jsf3\services\ProductoServiceImpl.class
+com\alejandro\webapp\jsf3\services\ProductoService.class
+com\alejandro\webapp\jsf3\entities\Categoria.class
+com\alejandro\webapp\jsf3\converters\CategoriaConverter.class
+com\alejandro\webapp\jsf3\repositories\ProductoRepositoryImpl.class
+com\alejandro\webapp\jsf3\repositories\ProductoRepository.class
